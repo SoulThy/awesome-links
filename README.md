@@ -14,7 +14,7 @@ Link | Description
  [Ve3zsh-Links](https://ve3zsh.ca/links/index.html) | 📒 An extensive list of extremly good links. (yes, link inception)
  [Annas-archive](https://annas-archive.org/) | 🔍 Search engine of shadow libraries: books, papers, comics, magazines. 📚 Z-Library, Library Genesis, Sci-Hub.
  [Lit-Solutions](https://www.litsolutions.org/) | 📓🖋️ Step-by-step textbook solutions to enhance your learning.
- [Wargames](https://overthewire.org/wargames/) | 👨‍💻 Step-by-step textbook solutions to enhance your learning.
- [Crackmes.one](https://crackmes.one/) | 👨‍💻 Step-by-step textbook solutions to enhance your learning.
+ [Wargames](https://overthewire.org/wargames/) | 👨‍💻 Engage in Capture The Flag (CTF) challenges to learn and practice security concepts through fun-filled games.
+ [Crackmes.one](https://crackmes.one/) | 👨‍💻 Improve your reverse engineering skills with a collection of downloadable crackmes.
  [Good-First-Issue](https://goodfirstissue.dev/) | ✅ Good First Issue curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source. 
- [TypingClub](https://www.typingclub.com/) | ⌨️ Good First Issue curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source. 
+ [TypingClub](https://www.typingclub.com/) | ⌨️ Enhance your typing skills with TypingClub, a platform that teaches touch typing on a keyboard the right way. 
